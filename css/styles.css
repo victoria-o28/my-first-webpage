@@ -1,0 +1,22 @@
+h1 {
+    color: blue;
+    text-align: center;
+  }
+  h2 {
+    color: rgb(185, 184, 185);
+    font-style: italic;
+    text-align: center;
+  }
+  p {
+    font-family: sans-serif;
+  }
+  p {
+     em font-style: bold;
+     strong font-weight : italic ;
+  }
+  ul {
+    line-height: 25px;
+  }
+  ol {
+    line-height: 25px;
+  }
